@@ -1,1 +1,2 @@
-streamlit>=1.26.0
+python -m pip install streamlit pandas plotly
+python -m streamlit run interactive_data_explorer.py
